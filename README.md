@@ -2,4 +2,6 @@
 
 ## :movie_camera: :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera: 
 
-### [Functioning Bamazon app recording](https://youtu.be/ysVVjK0UjdQ)
+### Bamazon YouTube [Video](https://youtu.be/ysVVjK0UjdQ)
+
+## :movie_camera: :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera:  :movie_camera: 
